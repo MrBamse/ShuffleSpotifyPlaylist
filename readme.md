@@ -28,5 +28,7 @@ Spotify built in shuffle sucks and it's been a hot topic for years in the Spotif
 ## Run
 ### Cronjob Example:
 0 4 * * * /usr/bin/python3 /home/user/scripts/Shuffler/shuffler.py playlist-A.cfg
+
 1 4 * * * /usr/bin/python3 /home/user/scripts/Shuffler/shuffler.py playlist-B.cfg
+
 2 4 * * * /usr/bin/python3 /home/user/scripts/Shuffler/shuffler.py playlist-C.cfg
