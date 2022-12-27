@@ -4,6 +4,11 @@
 
 Spotify built in shuffle sucks and it's been a hot topic for years in the Spotify forums, yet nothing acceptable have been made.
 
+## Features
+- Handles playlists of unlimited size.
+- Can shuffle from one playlist (source) to another (destination).
+- Easily shuffle multiple playlist by passing .cfg-file as argument.
+
 ## Requirements
 
  - [A Spotify account](https://spotify.com/)
