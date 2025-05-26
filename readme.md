@@ -8,7 +8,7 @@ Spotify built in shuffle sucks and it's been a hot topic for years in the Spotif
 - Handles playlists of unlimited size.
 - Can shuffle from one playlist (source) to another (destination).
 - Easily shuffle multiple playlist by passing .cfg-file as argument.
-- Limit amount of songs copied from source.
+- Limit the amount of songs copied from source.
 - Add a playlist as filter to remove unwanted songs in destination playlist (keeping source playlist intact).
 
 ## Requirements
