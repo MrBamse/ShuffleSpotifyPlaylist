@@ -1,7 +1,7 @@
 # Spotify Playlist Shuffler
+(A continuation of the great radu-gs/ShuffleSpotifyPlaylist)
 
 ## Why?
-
 Spotify built in shuffle sucks and it's been a hot topic for years in the Spotify forums, yet nothing acceptable have been made.
 
 ## Features
